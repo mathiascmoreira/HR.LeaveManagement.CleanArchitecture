@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagement.UnitTest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagement.Persistence.IntegrationTests", "HR.LeaveManagement.Persistence.IntegrationTests\HR.LeaveManagement.Persistence.IntegrationTests.csproj", "{6BF7563A-56C0-43BD-A6E3-7292746CC3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.BlazorUI", "HR.LeaveManagement.BlazorUI\HR.LeaveManagement.BlazorUI.csproj", "{393DB5B7-43F5-4762-9B91-8A1954EDF261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagement.BlazorUI", "HR.LeaveManagement.BlazorUI\HR.LeaveManagement.BlazorUI.csproj", "{393DB5B7-43F5-4762-9B91-8A1954EDF261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
